@@ -130,7 +130,7 @@
    "source": [
     "# token expires every 30 min\n",
     "COURSERA_TOKEN = \"cnM8yfby4NgOgesV\"\n",
-    "COURSERA_EMAIL = \"ssq6554@126.com\""
+    "COURSERA_EMAIL = \"rukmani.ece@rmd.ac.in\""
    ]
   },
   {
